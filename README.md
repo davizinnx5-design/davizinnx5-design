@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Davi Oliveira, tenho 16 anos e sou natural de Acopiara-CE. Estou cursando o ensino médio na EEEP Alfredo Nunes de Melo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.Goato de tecnologia e vou tentar continuar na área.
+Me chamo Davi Oliveira, tenho 16 anos e sou natural de Acopiara-CE. Estou cursando o ensino médio na EEEP Alfredo Nunes de Melo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Gosto de tecnologia e vou tentar continuar na área.
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
